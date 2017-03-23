@@ -1,0 +1,13 @@
+{
+  "name": "code-challenges",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Cody <rockchalkwushock@iclould.com> (https://rockchalkwushock.github.io/rcws-development/)",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
